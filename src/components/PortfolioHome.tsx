@@ -1,9 +1,13 @@
+// @ts-nocheck
 import React from 'react';
 
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 
 import 'react-photo-view/dist/react-photo-view.css';
 import config from '../config/index.json';
+
+// eslint-disable-next-line import/order
+import Link from 'next/link';
 
 const PortfolioHome = () => {
   const { portfolio } = config;
@@ -35,12 +39,12 @@ const PortfolioHome = () => {
 
         <div className="text-center mt-5">
           <div className="rounded-md shadow inline-block">
-            <a
+            <Link
               href="/portfolio"
               className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-white md:py-4 md:text-lg md:px-10`}
             >
               View More
-            </a>
+            </Link>
           </div>
         </div>
       </div>

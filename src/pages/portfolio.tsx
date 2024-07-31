@@ -1,9 +1,10 @@
-import React from 'react';
+/* eslint-disable prettier/prettier */
+import React from "react";
 
-import About from '../components/Footer';
-import Header from '../components/Header';
-import MainHeroImage from '../components/MainHeroImage';
-import PortfolioFull from '../components/PortfolioFull';
+import About from "../components/Footer";
+import Header from "../components/Header";
+import MainHeroImage from "../components/MainHeroImage";
+import PortfolioFull from "../components/PortfolioFull";
 
 const Portfolio = () => {
   return (
