@@ -1,0 +1,147 @@
+{
+  "company": {
+    "name": "Empire Jobs",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "About Us",
+      "href": "about-us"
+    },
+    {
+      "name": "Our Work",
+      "href": "our-work"
+    },
+
+    {
+      "name": "Contact Us",
+      "href": "contact-us"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#our-work"
+  },
+  "mainHero": {
+    "title": "Premium",
+    "subtitle": "Flooring Solutions",
+    "description": "Discover the finest in flooring options with EmpireJobs. From PVC floors to laminate, carpets, and plinths, our expert team ensures smooth and flawless installations with meticulous attention to detail. Whether renovating a home, office, or commercial space, trust us to deliver exceptional quality and style that lasts.",
+    "img": "/assets/images/heroSection.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#our-work"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:danilo@empirejobs.nl?subject=I like your designs"
+    }
+  },
+  "features": {
+    "title": "Empire Jobs ",
+    "subtitle": "About Us",
+    "description": "Welcome to EmpireJobs, your premier destination for top-quality flooring solutions in Germany and the Benelux countries. We specialize in providing a wide range of flooring options, including PVC floors, laminate, carpets,plinths etc. Our expert team is also skilled in floor leveling, ensuring a smooth and flawless foundation for your new floors.\nAt EmpireJobs, we pride ourselves on using only the finest materials, ensuring durability and style that stands the test of time. Our professional installers are committed to delivering precise and meticulous workmanship, transforming your space with attention to detail and unparalleled expertise.\nWhether you're renovating a home, office, or commercial space, trust EmpireJobs to deliver exceptional flooring solutions that meet your needs and exceed your expectations. Explore our extensive collection and let us help you create a beautiful and lasting impression with your floors."
+  },
+
+  "portfolio": {
+    "title": "Our Work",
+    "primaryImages": [
+      "/assets/images/primary/primaryImage1.jpeg",
+      "/assets/images/primary/primaryImage2.jpeg",
+      "/assets/images/primary/primaryImage3.jpeg",
+      "/assets/images/primary/primaryImage4.jpeg",
+      "/assets/images/primary/primaryImage5.jpeg",
+      "/assets/images/primary/primaryImage6.jpeg",
+      "/assets/images/primary/primaryImage7.jpeg",
+      "/assets/images/primary/primaryImage8.jpeg"
+    ],
+    "allImages": [
+      "/assets/images/portfolio/work1-min.jpg",
+      "/assets/images/portfolio/work2-min.jpg",
+      "/assets/images/portfolio/work3-min.jpg",
+      "/assets/images/portfolio/work4-min.jpg",
+      "/assets/images/portfolio/work5-min.jpg",
+      "/assets/images/portfolio/work6-min.jpg",
+      "/assets/images/portfolio/work7-min.jpg",
+      "/assets/images/portfolio/work8-min.jpg",
+      "/assets/images/portfolio/work9-min.jpg",
+      "/assets/images/portfolio/work10-min.jpg",
+      "/assets/images/portfolio/work11-min.jpg",
+      "/assets/images/portfolio/work12-min.jpg",
+      "/assets/images/portfolio/work13-min.jpg",
+      "/assets/images/portfolio/work14-min.jpg",
+      "/assets/images/portfolio/work15-min.jpg",
+      "/assets/images/portfolio/work16-min.jpg",
+      "/assets/images/portfolio/work17-min.jpg",
+      "/assets/images/portfolio/work18-min.jpg",
+      "/assets/images/portfolio/work19-min.jpg",
+      "/assets/images/portfolio/work20-min.jpg",
+      "/assets/images/portfolio/work21-min.jpg",
+      "/assets/images/portfolio/work22-min.jpg",
+      "/assets/images/portfolio/work23-min.jpg",
+      "/assets/images/portfolio/work24-min.jpg",
+      "/assets/images/portfolio/work25-min.jpg",
+      "/assets/images/portfolio/work26-min.jpg",
+      "/assets/images/portfolio/work27-min.jpg",
+      "/assets/images/portfolio/work28-min.jpg",
+      "/assets/images/portfolio/work29-min.jpg",
+      "/assets/images/portfolio/work30-min.jpg",
+      "/assets/images/portfolio/work31-min.jpg",
+      "/assets/images/portfolio/work32-min.jpg",
+      "/assets/images/portfolio/work33-min.jpg",
+      "/assets/images/portfolio/work34-min.jpg",
+      "/assets/images/portfolio/work35-min.jpg",
+      "/assets/images/portfolio/work36-min.jpg",
+      "/assets/images/portfolio/work37-min.jpg",
+      "/assets/images/portfolio/work38-min.jpg",
+      "/assets/images/portfolio/work39-min.jpg",
+      "/assets/images/portfolio/work40-min.jpg",
+      "/assets/images/portfolio/work41-min.jpg",
+      "/assets/images/portfolio/work42-min.jpg",
+      "/assets/images/portfolio/work43-min.jpg",
+      "/assets/images/portfolio/work44-min.jpg",
+      "/assets/images/portfolio/work45-min.jpg",
+      "/assets/images/portfolio/work46-min.jpg",
+      "/assets/images/portfolio/work47-min.jpg",
+      "/assets/images/portfolio/work48-min.jpg",
+      "/assets/images/portfolio/work49-min.jpg",
+      "/assets/images/portfolio/work50-min.jpg",
+      "/assets/images/portfolio/work51-min.jpg",
+      "/assets/images/portfolio/work52-min.jpg",
+      "/assets/images/portfolio/work53-min.jpg",
+      "/assets/images/portfolio/work54-min.jpg",
+      "/assets/images/portfolio/work55-min.jpg",
+      "/assets/images/portfolio/work56-min.jpg",
+      "/assets/images/portfolio/work57-min.jpg",
+      "/assets/images/portfolio/work58-min.jpg",
+      "/assets/images/portfolio/work59-min.jpg",
+      "/assets/images/portfolio/work60-min.jpg",
+      "/assets/images/portfolio/work61-min.jpg",
+      "/assets/images/portfolio/work62-min.jpg",
+      "/assets/images/portfolio/work63-min.jpg",
+      "/assets/images/portfolio/work64-min.jpg",
+      "/assets/images/portfolio/work65-min.jpg"
+    ]
+  },
+
+  "about": {
+    "sections": [
+      {
+        "name": "About Us",
+        "href": "about-us"
+      },
+      {
+        "name": "Our Work",
+        "href": "our-work"
+      },
+      {
+        "name": "Contact Us",
+        "href": "contact-us"
+      }
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com",
+      "instagram": "https://www.instagram.com",
+      "youtube": "https://www.youtube.com"
+    }
+  }
+}
