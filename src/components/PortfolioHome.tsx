@@ -1,13 +1,13 @@
 // @ts-nocheck
-import React from "react";
+import React from 'react';
 
-import { PhotoProvider, PhotoView } from "react-photo-view";
+import { PhotoProvider, PhotoView } from 'react-photo-view';
 
-import "react-photo-view/dist/react-photo-view.css";
-import config from "../config/index.json";
+import 'react-photo-view/dist/react-photo-view.css';
+import config from '../config/index.json';
 
 // eslint-disable-next-line import/order
-import Link from "next/link";
+import Link from 'next/link';
 
 const PortfolioHome = () => {
   const { portfolio } = config;

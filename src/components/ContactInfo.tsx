@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaHashtag } from "react-icons/fa";
+import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaHashtag } from 'react-icons/fa';
 
 const ContactCard = ({
   icon: Icon,
