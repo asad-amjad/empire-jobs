@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaHashtag } from 'react-icons/fa';
+import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaHashtag } from "react-icons/fa";
 
 const ContactCard = ({
   icon: Icon,
@@ -45,7 +45,7 @@ const ContactInfo = () => {
           <ContactCard
             icon={FaMapMarkerAlt}
             title="Address"
-            info="showroom in Culemborg,"
+            info="showroom in Culemborg, bellen voor afspraak of wij kunnen samples brengen."
           />
         </div>
       </div>

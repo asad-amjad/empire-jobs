@@ -25,7 +25,7 @@
   "mainHero": {
     "title": "Premium",
     "subtitle": "Flooring Solutions",
-    "description": "Discover the finest in flooring options with EmpireJobs. From PVC floors to laminate, carpets, and plinths, our expert team ensures smooth and flawless installations with meticulous attention to detail. Whether renovating a home, office, or commercial space, trust us to deliver exceptional quality and style that lasts.",
+    "description": "Ontdek de beste vloeropties met EmpireJobs. Van PVC-vloeren tot laminaat, tapijten en plinten, ons deskundige team zorgt voor een vlotte en vlekkeloze installatie met nauwgezette aandacht voor detail. Of het nu gaat om het renoveren van een huis, kantoor of commerciële ruimte, vertrouw op ons om uitzonderlijke kwaliteit en stijl te leveren die lang meegaat.",
     "img": "/assets/images/heroSection.jpg",
     "primaryAction": {
       "text": "Get started",
@@ -39,7 +39,7 @@
   "features": {
     "title": "Empire Jobs ",
     "subtitle": "About Us",
-    "description": "Welcome to EmpireJobs, your premier destination for top-quality flooring solutions in Germany and the Benelux countries. We specialize in providing a wide range of flooring options, including PVC floors, laminate, carpets,plinths etc. Our expert team is also skilled in floor leveling, ensuring a smooth and flawless foundation for your new floors.\nAt EmpireJobs, we pride ourselves on using only the finest materials, ensuring durability and style that stands the test of time. Our professional installers are committed to delivering precise and meticulous workmanship, transforming your space with attention to detail and unparalleled expertise.\nWhether you're renovating a home, office, or commercial space, trust EmpireJobs to deliver exceptional flooring solutions that meet your needs and exceed your expectations. Explore our extensive collection and let us help you create a beautiful and lasting impression with your floors."
+    "description": "Welkom bij EmpireJobs, uw voornaamste bestemming voor hoogwaardige vloeroplossingen in de Benelux en Duitsland. Wij zijn gespecialiseerd in het aanbieden van een breed scala aan vloeren, waaronder PVC vloeren, laminaat, tapijten, plinten, enz. Ons deskundige team is ook bedreven in vloer nivellering, wat zorgt voor een gladde en foutloze basis voor uw nieuwe vloeren. Bij EmpireJobs zijn we trots op het gebruik van alleen de beste materialen, wat duurzaamheid en stijl garandeert die de tand des tijds doorstaan. Onze professionele installateurs zetten zich in voor nauwkeurig en zorgvuldig vakmanschap, waarbij ze uw ruimte transformeren met oog voor detail en ongeëvenaarde expertise. Of u nu een woning, kantoor of commerciële ruimte renoveert, vertrouw op EmpireJobs om uitzonderlijke vloeroplossingen te leveren die aan uw behoeften voldoen en uw verwachtingen overtreffen. Verken ons uitgebreide assortiment en laat ons u helpen een prachtige en blijvende indruk te creëren met uw vloeren."
   },
 
   "portfolio": {
@@ -100,7 +100,6 @@
       "/assets/images/portfolio/work43-min.jpg",
       "/assets/images/portfolio/work44-min.jpg",
       "/assets/images/portfolio/work45-min.jpg",
-      "/assets/images/portfolio/work46-min.jpg",
       "/assets/images/portfolio/work47-min.jpg",
       "/assets/images/portfolio/work48-min.jpg",
       "/assets/images/portfolio/work49-min.jpg",
